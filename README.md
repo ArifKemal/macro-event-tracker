@@ -45,4 +45,4 @@ A quantitative look at the net percentage changes:
     - `step4_summary_table.py` (Generate statistics)
 
 ---
-*Developed for Portfolio Showcase - Quant & Data Science*
+
